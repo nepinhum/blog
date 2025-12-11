@@ -1,4 +1,4 @@
-I am wrp3, or you can call me scher, and I live in Turkiye. 
+Hello, I'm nepinhum or you can call me scher. And I live in Turkiye. 
 
 I got into software development through Minecraft and it's still a hobby for me even though it's dead :D. Then I moved on to different areas and continued to develop myself in various subjects.
 
