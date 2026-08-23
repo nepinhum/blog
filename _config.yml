@@ -1,11 +1,11 @@
-title: "sche's blog"
+title: "nepinhum's blog"
 author: "scher"
 description: "My simple personal blog." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "nepinhum@proton.me"
-twitter_username: "cannyyeeh"
+twitter_username: "nepinhum"
 github_username: "nepinhum"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
@@ -25,7 +25,7 @@ rss: rss
 kramdown:
   syntax_highlighter_opts:
     disable: true
-    
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
