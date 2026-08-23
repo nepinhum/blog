@@ -55,10 +55,10 @@ Making the terrain generator 10% faster sounds great, but it doesn't accomplish 
 And the question became: "How do we avoid doing expensive work unnecessarily?"
 And latest results were like:
 
-![benchmark reports](/assets/vedrock/image_1.png)
-![benchmark reports 2](/assets/vedrock/image_2.png)
-![benchmark reports 3](/assets/vedrock/image.png)
-![benchmark reports 4](/assets/vedrock/image_3.png)
+![benchmark report](https://raw.githubusercontent.com/nepinhum/blog/main/assets/vedrock/image_1.png)
+![benchmark report](https://raw.githubusercontent.com/nepinhum/blog/main/assets/vedrock/image_2.png)
+![benchmark report](https://raw.githubusercontent.com/nepinhum/blog/main/assets/vedrock/image.png)
+![benchmark report](https://raw.githubusercontent.com/nepinhum/blog/main/assets/vedrock/image_3.png)
 
 Content by github.com/xRookieFight.
 
